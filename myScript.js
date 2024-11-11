@@ -37,3 +37,6 @@ function showNote(){
        show = false;
    }
 }
+
+
+
